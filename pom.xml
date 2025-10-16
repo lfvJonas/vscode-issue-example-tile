@@ -8,6 +8,7 @@
     <version>0.1.0</version>
     <name>demo</name>
     <description>Demo tile</description>
+    <packaging>tile</packaging>
 
     <build>
         <plugins>
